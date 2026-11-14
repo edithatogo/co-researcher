@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Co-Researcher
+authors:
+- family-names: poemswe
+- name: Co-Researcher contributors
+repository-code: https://github.com/edithatogo/co-researcher
+url: https://github.com/edithatogo/co-researcher
+references:
+- type: software
+  title: Co-Researcher
+  authors:
+  - family-names: poemswe
+  - name: Co-Researcher contributors
+  repository-code: https://github.com/poemswe/co-researcher
+  url: https://github.com/poemswe/co-researcher
